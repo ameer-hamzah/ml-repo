@@ -5,9 +5,9 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello, this is Hamza. " << endl;
-    cout << "This is my first C++ Program. " << endl;
-    cout << "Updated date : 27 NOV 2022" << endl;
+    cout << "Using VS Code in WSL" << endl;
+    cout << "Remote Usage" << endl;
+    cout << "Updated date : 21 Jul 2023" << endl;
     cout << "Star Learning!";
     return 0;
 }
