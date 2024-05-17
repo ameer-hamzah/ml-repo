@@ -6,3 +6,4 @@
 4. checking git workflows
 5. Bringing forking
 6. Two accounts check
+7. Added from Personal computer
